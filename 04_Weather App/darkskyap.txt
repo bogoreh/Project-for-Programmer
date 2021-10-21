@@ -1,0 +1,6 @@
+https://darksky.net
+
+icons = https://darksyapp.github.io/skyicons/
+
+
+https://darksky.net/forecast/40.7127,-74.0059/us12/en
